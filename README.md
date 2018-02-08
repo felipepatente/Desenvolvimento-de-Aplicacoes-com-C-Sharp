@@ -1,1 +1,1 @@
-# Desenvolvimento de Aplicacoes com C#
+# Desenvolvimento de Aplicações com C#
