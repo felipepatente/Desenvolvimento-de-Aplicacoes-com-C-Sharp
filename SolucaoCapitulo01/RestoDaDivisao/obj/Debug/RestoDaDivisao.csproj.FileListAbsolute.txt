@@ -1,0 +1,9 @@
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo01\RestoDaDivisao\bin\Debug\RestoDaDivisao.exe.config
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo01\RestoDaDivisao\bin\Debug\RestoDaDivisao.exe
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo01\RestoDaDivisao\bin\Debug\RestoDaDivisao.pdb
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo01\RestoDaDivisao\obj\Debug\RestoDaDivisao.csprojResolveAssemblyReference.cache
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo01\RestoDaDivisao\obj\Debug\RestoDaDivisao.frmRestoDeDivisao.resources
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo01\RestoDaDivisao\obj\Debug\RestoDaDivisao.Properties.Resources.resources
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo01\RestoDaDivisao\obj\Debug\RestoDaDivisao.csproj.GenerateResource.Cache
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo01\RestoDaDivisao\obj\Debug\RestoDaDivisao.exe
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo01\RestoDaDivisao\obj\Debug\RestoDaDivisao.pdb

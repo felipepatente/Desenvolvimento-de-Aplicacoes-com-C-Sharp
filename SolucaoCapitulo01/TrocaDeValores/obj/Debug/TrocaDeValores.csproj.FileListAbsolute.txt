@@ -1,0 +1,9 @@
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo01\TrocaDeValores\bin\Debug\TrocaDeValores.exe.config
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo01\TrocaDeValores\bin\Debug\TrocaDeValores.exe
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo01\TrocaDeValores\bin\Debug\TrocaDeValores.pdb
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo01\TrocaDeValores\obj\Debug\TrocaDeValores.csprojResolveAssemblyReference.cache
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo01\TrocaDeValores\obj\Debug\TrocaDeValores.Properties.Resources.resources
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo01\TrocaDeValores\obj\Debug\TrocaDeValores.csproj.GenerateResource.Cache
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo01\TrocaDeValores\obj\Debug\TrocaDeValores.exe
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo01\TrocaDeValores\obj\Debug\TrocaDeValores.pdb
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo01\TrocaDeValores\obj\Debug\TrocaDeValores.frmTrocaDeValores.resources
