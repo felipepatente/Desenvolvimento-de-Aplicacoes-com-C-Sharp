@@ -1,0 +1,9 @@
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo02\ReajusteSalarial\bin\Debug\ReajusteSalarial.exe.config
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo02\ReajusteSalarial\bin\Debug\ReajusteSalarial.exe
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo02\ReajusteSalarial\bin\Debug\ReajusteSalarial.pdb
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo02\ReajusteSalarial\obj\Debug\ReajusteSalarial.csprojResolveAssemblyReference.cache
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo02\ReajusteSalarial\obj\Debug\ReajusteSalarial.FrmReajusteSalarial.resources
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo02\ReajusteSalarial\obj\Debug\ReajusteSalarial.Properties.Resources.resources
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo02\ReajusteSalarial\obj\Debug\ReajusteSalarial.csproj.GenerateResource.Cache
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo02\ReajusteSalarial\obj\Debug\ReajusteSalarial.exe
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo02\ReajusteSalarial\obj\Debug\ReajusteSalarial.pdb

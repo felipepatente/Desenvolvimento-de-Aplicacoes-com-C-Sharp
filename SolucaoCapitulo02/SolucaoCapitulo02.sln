@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdadeAlunosMatriculados", "IdadeAlunosMatriculados\IdadeAlunosMatriculados.csproj", "{FD2D77A6-A3A8-4A4A-86BE-D1C3C6AE040B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PesoIdeal", "PesoIdeal\PesoIdeal.csproj", "{9143D048-0C4F-4F7B-A383-A0B25B1AEFAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReajusteSalarial", "ReajusteSalarial\ReajusteSalarial.csproj", "{57476D7F-795C-48EF-B6D5-AE7E2DD4143B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD2D77A6-A3A8-4A4A-86BE-D1C3C6AE040B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD2D77A6-A3A8-4A4A-86BE-D1C3C6AE040B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD2D77A6-A3A8-4A4A-86BE-D1C3C6AE040B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD2D77A6-A3A8-4A4A-86BE-D1C3C6AE040B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9143D048-0C4F-4F7B-A383-A0B25B1AEFAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9143D048-0C4F-4F7B-A383-A0B25B1AEFAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9143D048-0C4F-4F7B-A383-A0B25B1AEFAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9143D048-0C4F-4F7B-A383-A0B25B1AEFAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57476D7F-795C-48EF-B6D5-AE7E2DD4143B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57476D7F-795C-48EF-B6D5-AE7E2DD4143B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57476D7F-795C-48EF-B6D5-AE7E2DD4143B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57476D7F-795C-48EF-B6D5-AE7E2DD4143B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

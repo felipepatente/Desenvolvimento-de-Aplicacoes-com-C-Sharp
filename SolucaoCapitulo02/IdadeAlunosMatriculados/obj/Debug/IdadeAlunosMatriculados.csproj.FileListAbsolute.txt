@@ -1,0 +1,9 @@
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo02\IdadeAlunosMatriculados\bin\Debug\IdadeAlunosMatriculados.exe.config
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo02\IdadeAlunosMatriculados\bin\Debug\IdadeAlunosMatriculados.exe
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo02\IdadeAlunosMatriculados\bin\Debug\IdadeAlunosMatriculados.pdb
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo02\IdadeAlunosMatriculados\obj\Debug\IdadeAlunosMatriculados.csprojResolveAssemblyReference.cache
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo02\IdadeAlunosMatriculados\obj\Debug\IdadeAlunosMatriculados.frmIdadeAlunosMatriculados.resources
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo02\IdadeAlunosMatriculados\obj\Debug\IdadeAlunosMatriculados.Properties.Resources.resources
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo02\IdadeAlunosMatriculados\obj\Debug\IdadeAlunosMatriculados.csproj.GenerateResource.Cache
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo02\IdadeAlunosMatriculados\obj\Debug\IdadeAlunosMatriculados.exe
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo02\IdadeAlunosMatriculados\obj\Debug\IdadeAlunosMatriculados.pdb
