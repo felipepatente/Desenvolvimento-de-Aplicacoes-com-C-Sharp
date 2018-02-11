@@ -1,0 +1,10 @@
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo03\ReajusteDeFolhaDePagamento\bin\Debug\ReajusteDeFolhaDePagamento.exe.config
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo03\ReajusteDeFolhaDePagamento\obj\Debug\ReajusteDeFolhaDePagamento.csprojResolveAssemblyReference.cache
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo03\ReajusteDeFolhaDePagamento\obj\Debug\ReajusteDeFolhaDePagamento.FrmReajusteDeFolhaDePagamento.resources
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo03\ReajusteDeFolhaDePagamento\obj\Debug\ReajusteDeFolhaDePagamento.Properties.Resources.resources
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo03\ReajusteDeFolhaDePagamento\obj\Debug\ReajusteDeFolhaDePagamento.csproj.GenerateResource.Cache
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo03\ReajusteDeFolhaDePagamento\bin\Debug\ReajusteDeFolhaDePagamento.exe
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo03\ReajusteDeFolhaDePagamento\bin\Debug\ReajusteDeFolhaDePagamento.pdb
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo03\ReajusteDeFolhaDePagamento\obj\Debug\ReajusteDeFolhaDePagamento.exe
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo03\ReajusteDeFolhaDePagamento\obj\Debug\ReajusteDeFolhaDePagamento.pdb
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo03\ReajusteDeFolhaDePagamento\obj\Debug\ReajusteDeFolhaDePagamento.FormLeitura.resources

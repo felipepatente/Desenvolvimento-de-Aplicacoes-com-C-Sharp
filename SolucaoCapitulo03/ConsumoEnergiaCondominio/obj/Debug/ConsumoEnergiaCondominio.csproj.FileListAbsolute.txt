@@ -1,0 +1,9 @@
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo03\ConsumoEnergiaCondominio\bin\Debug\ConsumoEnergiaCondominio.exe.config
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo03\ConsumoEnergiaCondominio\bin\Debug\ConsumoEnergiaCondominio.exe
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo03\ConsumoEnergiaCondominio\bin\Debug\ConsumoEnergiaCondominio.pdb
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo03\ConsumoEnergiaCondominio\obj\Debug\ConsumoEnergiaCondominio.csprojResolveAssemblyReference.cache
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo03\ConsumoEnergiaCondominio\obj\Debug\ConsumoEnergiaCondominio.frmConsumoEnergiaCondominio.resources
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo03\ConsumoEnergiaCondominio\obj\Debug\ConsumoEnergiaCondominio.Properties.Resources.resources
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo03\ConsumoEnergiaCondominio\obj\Debug\ConsumoEnergiaCondominio.csproj.GenerateResource.Cache
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo03\ConsumoEnergiaCondominio\obj\Debug\ConsumoEnergiaCondominio.exe
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo03\ConsumoEnergiaCondominio\obj\Debug\ConsumoEnergiaCondominio.pdb
