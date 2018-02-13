@@ -1,0 +1,5 @@
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo04\ModellProject\bin\Debug\ModellProject.dll
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo04\ModellProject\bin\Debug\ModellProject.pdb
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo04\ModellProject\obj\Debug\ModelProject.csprojResolveAssemblyReference.cache
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo04\ModellProject\obj\Debug\ModellProject.dll
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo04\ModellProject\obj\Debug\ModellProject.pdb

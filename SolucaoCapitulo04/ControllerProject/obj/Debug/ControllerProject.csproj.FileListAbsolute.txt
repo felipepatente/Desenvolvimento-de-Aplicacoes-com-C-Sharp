@@ -1,0 +1,9 @@
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo04\ControllerProject\bin\Debug\ControllerProject.dll
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo04\ControllerProject\bin\Debug\ControllerProject.pdb
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo04\ControllerProject\bin\Debug\ModellProject.dll
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo04\ControllerProject\bin\Debug\PersistenceProject.dll
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo04\ControllerProject\bin\Debug\ModellProject.pdb
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo04\ControllerProject\bin\Debug\PersistenceProject.pdb
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo04\ControllerProject\obj\Debug\ControllerProject.csprojResolveAssemblyReference.cache
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo04\ControllerProject\obj\Debug\ControllerProject.dll
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo04\ControllerProject\obj\Debug\ControllerProject.pdb
