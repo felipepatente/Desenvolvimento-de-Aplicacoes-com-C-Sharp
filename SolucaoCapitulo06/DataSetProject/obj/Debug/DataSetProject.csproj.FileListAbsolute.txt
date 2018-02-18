@@ -1,0 +1,9 @@
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo06\DataSetProject\bin\Debug\DataSetProject.exe.config
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo06\DataSetProject\bin\Debug\DataSetProject.exe
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo06\DataSetProject\bin\Debug\DataSetProject.pdb
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo06\DataSetProject\obj\Debug\DataSetProject.csprojResolveAssemblyReference.cache
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo06\DataSetProject\obj\Debug\DataSetProject.FormDataSetTest.resources
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo06\DataSetProject\obj\Debug\DataSetProject.Properties.Resources.resources
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo06\DataSetProject\obj\Debug\DataSetProject.csproj.GenerateResource.Cache
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo06\DataSetProject\obj\Debug\DataSetProject.exe
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo06\DataSetProject\obj\Debug\DataSetProject.pdb
