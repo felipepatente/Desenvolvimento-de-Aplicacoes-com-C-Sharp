@@ -15,7 +15,7 @@ namespace ADO_NETProject01
         private void Insert(NotaEntrada notaEntrada)
         {
             var command = new SqlCommand("Insert INTO notasDeEntrada " + 
-                "(IdFornecedor, Numero, DataEmissao, DataEntrada) " +
+                "(IdFornecedor, Numero, DataEmissao, DataEnttrada) " +
                 "VALUES(@IdFornecedor, @Numero, @DataEmissao, @DataEntrada) ", connection);
             command.Parameters.AddWithValue("@IdFornecedor", notaEntrada.FornecedorNota.Id);
             command.Parameters.AddWithValue("@Numero", notaEntrada.Numero);
@@ -28,7 +28,8 @@ namespace ADO_NETProject01
 
         private void Update(NotaEntrada notaEntrada)
         {
-            var command = new SqlCommand("UPDATE notasDeEntrada SET IdFornecedor = @IdFornecedor, Numero = @Numero, " + 
+            var command = new SqlCommand
+                ("UPDATE notasDeEntrada SET IdFornecedor = @IdFornecedor, Numero = @Numero, " + 
                 "DataEmissao = @DataEmissao, DataEntrada = @DataEntrada WHERE Id = @Id", connection);
             command.Parameters.AddWithValue("@IdFornecedor", notaEntrada.FornecedorNota.Id);
             command.Parameters.AddWithValue("@Numero", notaEntrada.Numero);
@@ -55,7 +56,10 @@ namespace ADO_NETProject01
 
         private void InsertProdutosNotaDeEntrada(long? idNotaEntrada, IList<ProdutoNotaEntrada> produtos)
         {
-            var command = new SqlCommand("INSERT INTO produtosNotaDeEntrada(IdNotaDeEntrada, IdProduto, PrecoCustoCompra, QuantidadeCompra) VALUES (@IdNotaDeEntrada, @IdProduto, @PrecoCustoCompra, @QuantidadeCompra)", connection);
+            var command = new SqlCommand
+                ("INSERT INTO produtosNotaDeEntrada(IdNotaDeEntrada, IdProduto, PrecoCustoCompra, " +
+                "QuantidadeCompra) " + 
+                "VALUES (@IdNotaDeEntrada, @IdProduto, @PrecoCustoCompra, @QuantidadeCompra)", connection);
             connection.Open();
 
             foreach (var produto in produtos)
@@ -85,8 +89,8 @@ namespace ADO_NETProject01
         {
             IList<NotaEntrada> notaEntrada = new List<NotaEntrada>();
 
-            var adapter = new SqlDataAdapter("SELECT id, idFornecedor, numero, dataEmissao, dataEntrrada " +
-                "FROM NotasDeEntrada", connection);
+            var adapter = new SqlDataAdapter("SELECT n.id, f.Nome, n.numero, n.dataEmissao, n.dataEnttrada " +
+                "FROM NotasDeEntrada AS n INNER JOIN fornecedores AS f ON n.idFornecedor = f.id", connection);
             var builder = new SqlCommandBuilder(adapter);
 
             var table = new DataTable();
@@ -100,9 +104,10 @@ namespace ADO_NETProject01
                     new NotaEntrada()
                     {
                         Id = Convert.ToInt64(row["id"]),
+                        FornecedorNota = new Fornecedor(row["Nome"].ToString()),
                         Numero = Convert.ToString(row["numero"]),
                         DataEmissao = Convert.ToDateTime(row["dataEmissao"]),
-                        DataEntrada = Convert.ToDateTime(row["dataEntrrada"])
+                        DataEntrada = Convert.ToDateTime(row["dataEnttrada"])
                     });
             }
             return notaEntrada;
@@ -134,6 +139,15 @@ namespace ADO_NETProject01
             }
 
             return notaEntrada;
+        }
+
+        public void RemoveById(long? id)
+        {
+            var command = new SqlCommand("DELETE FROM ProdutosNotasDeEntrada WHERE id = @id ", connection);
+            command.Parameters.AddWithValue("@id", id);
+            connection.Open();
+            command.ExecuteNonQuery();
+            connection.Close();
         }
     }
 }

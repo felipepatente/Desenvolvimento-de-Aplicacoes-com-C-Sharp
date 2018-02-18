@@ -9,6 +9,7 @@ namespace ADO_NETProject01
     public class ProdutoNotaEntrada
     {
         public long? Id { get; set; } 
+        public NotaEntrada IdNotaEntrada { get; set; }
         public Produto ProdutoNota { get; set; }
         public double PrecoCustoCompra { get; set; }
         public double QuantidadeComprada { get; set; }
@@ -17,5 +18,6 @@ namespace ADO_NETProject01
         {
             this.Id = null;
         }
+        
     }
 }

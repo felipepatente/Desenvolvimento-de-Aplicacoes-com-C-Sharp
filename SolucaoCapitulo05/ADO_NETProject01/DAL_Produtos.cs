@@ -69,7 +69,7 @@ namespace ADO_NETProject01
         {
             IList<Produto> produtos = new List<Produto>();
 
-            var adapter = new SqlDataAdapter("select id, descricao, precoDeCusto, precoDeVenda " + 
+            var adapter = new SqlDataAdapter("select id, descricao, precoDeCusto, precoDeVenda, Estoque " + 
                 "FROM produtos", connection);
             var builder = new SqlCommandBuilder(adapter);
 
@@ -87,7 +87,7 @@ namespace ADO_NETProject01
                         Descricao = (string)row["descricao"],
                         PrecoDeCusto = Convert.ToDouble(row["precoDeCusto"]),
                         PrecoDeVenda = Convert.ToDouble(row["precoDeVenda"]),
-                        Estoque = Convert.ToDouble(row["estoque"])
+                        Estoque = Convert.ToDouble(row["Estoque"])
                     });
             }
             return produtos;

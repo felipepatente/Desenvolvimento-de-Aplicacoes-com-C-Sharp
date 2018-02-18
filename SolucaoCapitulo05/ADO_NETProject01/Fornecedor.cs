@@ -17,6 +17,11 @@ namespace ADO_NETProject01
             this.Id = null;
         }
 
+        public Fornecedor(string nome)
+        {
+            this.Nome = nome;
+        }
+
         protected bool Equals(Fornecedor other)
         {
             return Id.Equals(other.Id);
@@ -34,6 +39,11 @@ namespace ADO_NETProject01
         public override int GetHashCode()
         {
             return Id.GetHashCode();
+        }
+
+        public override string ToString()
+        {
+            return Nome;
         }
     }
 }

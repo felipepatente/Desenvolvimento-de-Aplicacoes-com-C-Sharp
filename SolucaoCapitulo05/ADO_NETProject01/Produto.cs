@@ -18,5 +18,15 @@ namespace ADO_NETProject01
         {
             this.Id = null;
         }
+
+        public Produto(string descricao)
+        {
+            this.Descricao = descricao;
+        }
+
+        public override string ToString()
+        {
+            return Descricao;
+        }
     }
 }

@@ -18,7 +18,12 @@ namespace ADO_NETProject01
         public NotaEntrada()
         {
             this.Id = null;
-            this.Produtos = new List<ProdutoNotaEntrada>();
+            this.Produtos = new List<ProdutoNotaEntrada>();            
+        }
+
+        public NotaEntrada(long id)
+        {
+            this.Id = id;
         }
 
         public void RegistrarProduto(ProdutoNotaEntrada produto)
@@ -37,6 +42,10 @@ namespace ADO_NETProject01
         {
             this.Produtos.Clear();
         }
-        
+
+        public override string ToString()
+        {
+            return Id.ToString();
+        }
     }
 }

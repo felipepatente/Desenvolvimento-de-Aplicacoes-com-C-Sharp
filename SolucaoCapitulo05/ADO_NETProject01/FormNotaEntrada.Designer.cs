@@ -125,6 +125,7 @@
             this.btnRemoverProduto.TabIndex = 3;
             this.btnRemoverProduto.Text = "Remover";
             this.btnRemoverProduto.UseVisualStyleBackColor = true;
+            this.btnRemoverProduto.Click += new System.EventHandler(this.btnRemoverProduto_Click);
             // 
             // btnCancelarProduto
             // 
@@ -137,6 +138,7 @@
             this.btnCancelarProduto.TabIndex = 2;
             this.btnCancelarProduto.Text = "Cancelar";
             this.btnCancelarProduto.UseVisualStyleBackColor = true;
+            this.btnCancelarProduto.Click += new System.EventHandler(this.btnCancelarProduto_Click);
             // 
             // btnGravarProduto
             // 
@@ -149,6 +151,7 @@
             this.btnGravarProduto.TabIndex = 1;
             this.btnGravarProduto.Text = "Gravar";
             this.btnGravarProduto.UseVisualStyleBackColor = true;
+            this.btnGravarProduto.Click += new System.EventHandler(this.btnGravarProduto_Click);
             // 
             // btnNovoProduto
             // 
@@ -160,6 +163,7 @@
             this.btnNovoProduto.TabIndex = 0;
             this.btnNovoProduto.Text = "Novo";
             this.btnNovoProduto.UseVisualStyleBackColor = true;
+            this.btnNovoProduto.Click += new System.EventHandler(this.btnNovoProduto_Click);
             // 
             // dgvProdutos
             // 
@@ -169,6 +173,7 @@
             this.dgvProdutos.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvProdutos.Size = new System.Drawing.Size(372, 248);
             this.dgvProdutos.TabIndex = 4;
+            this.dgvProdutos.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvProdutos_CellClick);
             // 
             // label7
             // 
@@ -324,6 +329,7 @@
             this.btnRemoverNota.TabIndex = 3;
             this.btnRemoverNota.Text = "Remover";
             this.btnRemoverNota.UseVisualStyleBackColor = true;
+            this.btnRemoverNota.Click += new System.EventHandler(this.btnRemoverNota_Click);
             // 
             // btnCancelarNota
             // 
@@ -335,6 +341,7 @@
             this.btnCancelarNota.TabIndex = 2;
             this.btnCancelarNota.Text = "Cancelar";
             this.btnCancelarNota.UseVisualStyleBackColor = true;
+            this.btnCancelarNota.Click += new System.EventHandler(this.btnCancelarNota_Click);
             // 
             // btnGravarNota
             // 
@@ -358,6 +365,7 @@
             this.button1.TabIndex = 0;
             this.button1.Text = "Novo";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // dgvNotasEntrada
             // 
@@ -511,7 +519,10 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(820, 507);
             this.Controls.Add(this.panel1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
             this.Name = "FormNotaEntrada";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FormNotaEntrada";
             this.panel1.ResumeLayout(false);
             this.panel3.ResumeLayout(false);
