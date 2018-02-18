@@ -1,0 +1,14 @@
+c:\users\vaio\documents\visual studio 2015\Projects\SolucaoCapitulo05\ADO_NETProject01\bin\Debug\ADO_NETProject01.exe.config
+C:\Users\Vaio\documents\visual studio 2015\Projects\SolucaoCapitulo05\ADO_NETProject01\obj\Debug\ADO_NETProject01.csprojResolveAssemblyReference.cache
+C:\Users\Vaio\documents\visual studio 2015\Projects\SolucaoCapitulo05\ADO_NETProject01\obj\Debug\ADO_NETProject01.Properties.Resources.resources
+C:\Users\Vaio\documents\visual studio 2015\Projects\SolucaoCapitulo05\ADO_NETProject01\obj\Debug\ADO_NETProject01.csproj.GenerateResource.Cache
+C:\Users\Vaio\documents\visual studio 2015\Projects\SolucaoCapitulo05\ADO_NETProject01\bin\Debug\App_Data\ADO_NETDATABASE.mdf
+C:\Users\Vaio\documents\visual studio 2015\Projects\SolucaoCapitulo05\ADO_NETProject01\bin\Debug\App_Data\ADO_NETDATABASE_log.ldf
+C:\Users\Vaio\documents\visual studio 2015\Projects\SolucaoCapitulo05\ADO_NETProject01\bin\Debug\ADO_NETProject01.exe
+C:\Users\Vaio\documents\visual studio 2015\Projects\SolucaoCapitulo05\ADO_NETProject01\bin\Debug\ADO_NETProject01.pdb
+C:\Users\Vaio\documents\visual studio 2015\Projects\SolucaoCapitulo05\ADO_NETProject01\obj\Debug\ADO_NETProject01.exe
+C:\Users\Vaio\documents\visual studio 2015\Projects\SolucaoCapitulo05\ADO_NETProject01\obj\Debug\ADO_NETProject01.pdb
+C:\Users\Vaio\documents\visual studio 2015\Projects\SolucaoCapitulo05\ADO_NETProject01\obj\Debug\ADO_NETProject01.FornecedoresCRUD.resources
+C:\Users\Vaio\documents\visual studio 2015\Projects\SolucaoCapitulo05\ADO_NETProject01\obj\Debug\ADO_NETProject01.ProdutosCRUD.resources
+C:\Users\Vaio\documents\visual studio 2015\Projects\SolucaoCapitulo05\ADO_NETProject01\obj\Debug\ADO_NETProject01.TelaInicial.resources
+C:\Users\Vaio\documents\visual studio 2015\Projects\SolucaoCapitulo05\ADO_NETProject01\obj\Debug\ADO_NETProject01.FormNotaEntrada.resources
